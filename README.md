@@ -60,6 +60,27 @@ Goals
 - Secure internships in AI/ML and Cloud Computing
 - Contribute to technical communities
 - Become a skilled software engineer and AI developer
+## Certifications
+
+- Cisco Introduction to Data Science
+- Cisco Data Analytics Essentials
+
+## Mini Project
+
+### Study Habits and Academic Performance of Engineering Students During Holidays
+
+- Conducted a Google Forms survey with 20 student responses
+- Analyzed study habits, attendance, AI tool usage, and academic performance
+- Created charts and visualizations from collected data
+- Prepared a PowerPoint presentation and PDF report
+
+## GitHub Goals 2026
+
+- Learn Python
+- Learn Data Science
+- Build AI projects
+- Explore Cloud Computing
+- Contribute to Cloudy Project
 
 Connect With Me
 
